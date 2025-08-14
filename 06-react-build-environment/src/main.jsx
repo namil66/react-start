@@ -1,2 +1,2 @@
-import "./styles/main.css";
-import "./components/app";
+import './demo'
+import './styles/main.css'
